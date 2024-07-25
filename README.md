@@ -1,1 +1,1 @@
-# My Python Prject for CareerFoundry
+# My Python Project for CareerFoundry
