@@ -16,5 +16,12 @@ the provided criteria.
 •	How can product price ranges improve marketing strategies?
 •	Which product departments are most popular?
 •	How do customer demographics and behaviors vary in terms of brand loyalty, regional differences, and purchasing patterns?
-## Data Set: The project leverages open-source datasets from Instacart, complemented by specially created customer datasets. These resources are integral to addressing the outlined business questions.
+## Data Set: 
+The project leverages open-source datasets from Instacart, complemented by specially created customer datasets. These resources are integral to addressing the outlined business questions.
 [Instacart Market Analysis Data](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
+## Stakeholders
+•	The Vice President of Marketing
+•	The Senior Vice President of Sales
+•	Instacart Customers
+
+
